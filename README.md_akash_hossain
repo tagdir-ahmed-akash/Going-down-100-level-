@@ -1,0 +1,34 @@
+# Going Down Game
+
+## Overview
+"Going Down" is an exciting arcade-style game where players control a character descending through a colorful and dynamic environment filled with moving boards. The objective is to navigate downwards while avoiding spikes and collecting power-ups, all while honing your reflexes and timing skills.
+
+## Gameplay
+- **Controls:** Use the arrow keys to move the character left and right.
+- **Objective:** Land on moving boards as they ascend. If you miss a board, your character will fall, risking a game over.
+- **Hazards:** Avoid hitting the spikes at the top of the screen and falling off the bottom edge.
+- **Power-Ups:** Collect gift bags that randomly appear during gameplay to increase your health and gain special advantages.
+
+## Features
+- **Dynamic Boards:** Boards move upward at varying speeds, creating a challenging gameplay experience.
+- **Colorful Graphics:** Enjoy vibrant visuals that enhance the gaming experience.
+- **Health System:** Start with three health points, which can be increased by collecting gift bags.
+- **Game Over Conditions:** Be mindful of your character's position; hitting spikes or falling off the screen results in game over.
+
+## Installation
+To play "Going Down," ensure you have the required libraries for C++ graphics programming installed. You can compile and run the provided source code using a compatible C++ IDE.
+
+## Getting Started
+1. Clone this repository to your local machine.
+2. Open the project in your C++ IDE.
+3. Compile the code and run the game.
+4. Use the arrow keys to control your character and start your descent!
+
+## Contributions
+Contributions are welcome! If you would like to add features or improve the game, please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+Thank you for playing "Going Down"! We hope you enjoy navigating the colorful boards and challenging your reflexes!
